@@ -8,7 +8,7 @@
                             <div class="card-body">
                                 <div class="p-5">
                                     <div class="text-center">
-                                        <img src="https://dzfullstack.com/assets/images/logo-img.png" width="180"
+                                        <img src="/src/assets/images/logo-icon.png" width="180"
                                             alt="">
                                     </div>
                                     <h4 class="font-weight-bold text-center">Đặt Lại Mật Khẩu</h4>

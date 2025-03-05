@@ -4,7 +4,7 @@
             <div class="card-body">
                 <div class="p-4 rounded  border">
                     <div class="text-center">
-                        <img src="https://dzfullstack.com/assets/images/logo-img.png" width="120" alt="" />
+                        <img src="/src/assets/images/logo-icon.png" style="margin-bottom: -70px;" width="170" alt="" />
                     </div>
                     <h4 class="mt-5 font-weight-bold text-center">Quên Mật Khẩu?</h4>
                     <p class="text-muted">Vui lòng nhập email tài khoản của bạn để có thể đổi lại mật khẩu mới</p>

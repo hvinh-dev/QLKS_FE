@@ -60,30 +60,30 @@
                         </div>
                         <div class="col-md-6">
                             <div class="card-body">
-                                <h5 class="card-title mt-1 text-danger">DZFullStack Resort</h5>
+                                <h5 class="card-title mt-1 text-danger">VB HOTEL</h5>
                                 <h2 class="card-title">Relax in our Hotel Resort</h2>
                                 <div class="row">
                                     <div class="col-lg-6">
-                                        <p style="height: 170px;">DZFullStack Resort không chỉ là một khách
+                                        <p style="height: 170px;">VB Hotel không chỉ là một khách
                                             sạn bình thường, mà là
                                             một thiên đường nghỉ dưỡng, mang đến trải nghiệm nghỉ dưỡng đỉnh
                                             cao cho khách hàng. Khách sạn này được thiết kế với phong cách
                                             hiện đại, sang trọng, mỗi phòng nghỉ đều có view đẹp mắt hướng
                                             ra biển cả hoặc khu vườn xanh mát. .</p>
-                                        <p style="height: 170px;">DZFullStack Resort cung cấp đầy đủ tiện
+                                        <p style="height: 170px;">VB Hotel cung cấp đầy đủ tiện
                                             ích cao cấp như spa,
                                             phòng tập gym, nhà hàng ẩm thực quốc tế, bar tại hồ bơi, và
                                             nhiều hoạt động giải trí khác, đáp ứng mọi nhu cầu của du khách
                                             từ nghỉ dưỡng đến làm việc hay tổ chức sự kiện.</p>
                                     </div>
                                     <div class="col-lg-6">
-                                        <p style="height: 170px;">Dịch vụ khách hàng tại DZFullStack Resort
+                                        <p style="height: 170px;">Dịch vụ khách hàng tại VB Hotel
                                             luôn được đặt lên hàng
                                             đầu. Đội ngũ nhân viên chuyên nghiệp, thân thiện sẵn sàng hỗ trợ
                                             khách hàng 24/7, đảm bảo mỗi kỳ nghỉ tại đây là một trải nghiệm
                                             thú vị và không thể quên. </p>
                                         <p style="height: 170px;">Không chỉ là nơi nghỉ dưỡng lý tưởng,
-                                            DZFullStack Resort còn là
+                                            VB Hotel còn là
                                             điểm đến hoàn hảo cho những ai muốn tổ chức các sự kiện quan
                                             trọng như hội nghị, tiệc cưới, với các phòng chức năng đa dạng,
                                             rộng rãi và được trang bị đầy đủ tiện nghi. </p>
@@ -96,7 +96,7 @@
                                             <img src="../../../assets/img_homepage/assets/images/avatars/avatar-4.png" class="user-img"
                                                 alt="user avatar">
                                             <div class="user-info ps-3">
-                                                <p class="user-name mb-0">DZFullStack Resort</p>
+                                                <p class="user-name mb-0">VB Hotel</p>
                                                 <p class="designattion mb-0">Nguyễn Quốc Long</p>
                                             </div>
                                         </a>
